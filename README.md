@@ -12,3 +12,6 @@ Soon to deploy
 
 ## Purpose
 To learn more
+
+## Copyright
+2024 git copyright
