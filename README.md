@@ -8,3 +8,7 @@ Sample website with plenty of files for demos and commands
 
 
 ## Deployment
+Soon to deploy
+
+## Purpose
+To learn more
