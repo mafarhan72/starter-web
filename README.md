@@ -11,7 +11,7 @@ Sample website with plenty of files for demos and commands
 Soon to deploy
 
 ## Purpose
-To learn more
+To learn more, please fork this file
 
 ## Copyright
 2024 git copyright
