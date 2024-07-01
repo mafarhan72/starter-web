@@ -14,4 +14,4 @@ Soon to deploy
 To learn more, please fork this file
 
 ## Copyright
-2024 git copyright
+2024 git copyright, All right reserved
