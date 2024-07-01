@@ -8,7 +8,7 @@ Sample website with plenty of files for demos and commands
 
 
 ## Deployment
-Soon to deploy
+Soon to deploy, very soon
 
 ## Purpose
 To learn more, please fork this file
